@@ -1,0 +1,15 @@
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/ament_index/resource_index/package_run_dependencies/queue_system
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/ament_index/resource_index/parent_prefix_path/queue_system
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/environment/ament_prefix_path.sh
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/environment/ament_prefix_path.dsv
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/environment/path.sh
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/environment/path.dsv
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/local_setup.bash
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/local_setup.sh
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/local_setup.zsh
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/local_setup.dsv
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/package.dsv
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/ament_index/resource_index/packages/queue_system
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/cmake/queue_systemConfig.cmake
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/cmake/queue_systemConfig-version.cmake
+/home/matheus/repos/queue_system_ros2/install/queue_system/share/queue_system/package.xml

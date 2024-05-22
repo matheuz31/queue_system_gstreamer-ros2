@@ -1,0 +1,127 @@
+-- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found gazebo_ros: 3.7.0 (/opt/ros/humble/share/gazebo_ros/cmake)
+-- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+-- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+-- Looking for ignition-math6 -- found version 6.15.1
+-- Searching for dependencies of ignition-math6
+-- Looking for OGRE...
+-- Found Ogre Ghadamon (1.9.0)
+-- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+-- Looking for OGRE_Paging...
+-- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+-- Looking for OGRE_Terrain...
+-- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+-- Looking for OGRE_Property...
+-- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+-- Looking for OGRE_RTShaderSystem...
+-- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+-- Looking for OGRE_Volume...
+-- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+-- Looking for OGRE_Overlay...
+-- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+-- Looking for ignition-math6 -- found version 6.15.1
+-- Looking for ignition-transport8 -- found version 8.2.1
+-- Searching for dependencies of ignition-transport8
+-- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+-- Config-file not installed for ZeroMQ -- checking for pkg-config
+-- Checking for module 'libzmq >= 4'
+--   Found libzmq , version 4.3.4
+-- Checking for module 'uuid'
+--   Found uuid, version 2.37.2
+-- Looking for ignition-msgs5 -- found version 5.8.1
+-- Searching for dependencies of ignition-msgs5
+-- Looking for ignition-math6 -- found version 6.15.1
+-- Checking for module 'tinyxml2'
+--   Found tinyxml2, version 9.0.0
+-- Looking for ignition-msgs5 -- found version 5.8.1
+-- Looking for ignition-common3 -- found version 3.14.0
+-- Searching for dependencies of ignition-common3
+-- Looking for dlfcn.h - found
+-- Looking for libdl - found
+-- Searching for <ignition-common3> component [graphics]
+-- Looking for ignition-common3-graphics -- found version 3.14.0
+-- Searching for dependencies of ignition-common3-graphics
+-- Looking for ignition-math6 -- found version 6.15.1
+-- Looking for ignition-fuel_tools4 -- found version 4.4.0
+-- Searching for dependencies of ignition-fuel_tools4
+-- Checking for module 'jsoncpp'
+--   Found jsoncpp, version 1.9.5
+-- Checking for module 'libzip'
+--   Found libzip, version 1.7.3
+-- Looking for ignition-common3 -- found version 3.14.0
+-- Looking for ignition-math6 -- found version 6.15.1
+-- Looking for ignition-msgs5 -- found version 5.8.1
+-- Gazebo version: 11.10
+-- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+-- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+-- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+-- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/matheus/repos/queue_system_ros2/build/queue_system
+[ 50%] [32mBuilding CXX object CMakeFiles/queue_system_exe.dir/src/main.cpp.o[0m
+[01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:13:13:[m[K [01;35m[Kwarning: [m[Ksuggest parentheses around assignment used as truth value [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wparentheses-Wparentheses]8;;[m[K]
+   13 |     if([01;35m[Kargc =! 2[m[K){
+      |        [01;35m[K~~~~~^~~~[m[K
+[01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:21:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kvideo_sink[m[K’ was not declared in this scope
+   21 |     [01;31m[Kvideo_sink[m[K = gst_element_factory_make("autovideosink", "sink");
+      |     [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:25:58:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K)[m[K’ token
+   25 |     if(!pipeline || !source || !decoder || !video_sink ||[01;31m[K)[m[K{
+      |                                                          [01;31m[K^[m[K
+In file included from [01m[K/usr/include/glib-2.0/gobject/gobject.h:28[m[K,
+                 from [01m[K/usr/include/glib-2.0/gobject/gbinding.h:29[m[K,
+                 from [01m[K/usr/include/glib-2.0/glib-object.h:22[m[K,
+                 from [01m[K/usr/include/gstreamer-1.0/gst/gstenumtypes.h:6[m[K,
+                 from [01m[K/usr/include/gstreamer-1.0/gst/gst.h:31[m[K,
+                 from [01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:1[m[K:
+[01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:36:55:[m[K [01;31m[Kerror: [m[K‘[01m[Kon_pad_added[m[K’ was not declared in this scope
+   36 |     g_signal_connect(decoder, "pad-added", G_CALLBACK([01;31m[Kon_pad_added[m[K), converter);
+      |                                                       [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/usr/include/glib-2.0/gobject/gsignal.h:508:60:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[Kg_signal_connect[m[K’
+  508 |     g_signal_connect_data ((instance), (detailed_signal), ([01;36m[Kc_handler[m[K), (data), NULL, (GConnectFlags) 0)
+      |                                                            [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:36:44:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KG_CALLBACK[m[K’
+   36 |     g_signal_connect(decoder, "pad-added", [01;36m[KG_CALLBACK[m[K(on_pad_added), converter);
+      |                                            [01;36m[K^~~~~~~~~~[m[K
+[01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:39:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kloop[m[K’ was not declared in this scope
+   39 |     [01;31m[Kloop[m[K = g_main_loop_new(NULL, FALSE);
+      |     [01;31m[K^~~~[m[K
+[01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:43:82:[m[K [01;31m[Kerror: [m[Kinvalid conversion from ‘[01m[Kint[m[K’ to ‘[01m[KGstMessageType[m[K’ [[01;31m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-fpermissive-fpermissive]8;;[m[K]
+   43 |     msg = gst_bus_timed_pop_filtered(bus, GST_CLOCK_TIME_NONE, [01;31m[KGST_MESSAGE_ERROR | GST_MESSAGE_EOS[m[K);
+      |                                                                [01;31m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~[m[K
+      |                                                                                  [01;31m[K|[m[K
+      |                                                                                  [01;31m[Kint[m[K
+In file included from [01m[K/usr/include/gstreamer-1.0/gst/gstelement.h:224[m[K,
+                 from [01m[K/usr/include/gstreamer-1.0/gst/gstbin.h:27[m[K,
+                 from [01m[K/usr/include/gstreamer-1.0/gst/gst.h:35[m[K,
+                 from [01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:1[m[K:
+[01m[K/usr/include/gstreamer-1.0/gst/gstbus.h:183:109:[m[K [01;36m[Knote: [m[K  initializing argument 3 of ‘[01m[KGstMessage* gst_bus_timed_pop_filtered(GstBus*, GstClockTime, GstMessageType)[m[K’
+  183 | GstMessage *            gst_bus_timed_pop_filtered      (GstBus * bus, GstClockTime timeout, [01;36m[KGstMessageType types[m[K);
+      |                                                                                              [01;36m[K~~~~~~~~~~~~~~~^~~~~[m[K
+[01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:6:37:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Ksink[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+    6 |     GstElement *pipeline, *source, *[01;35m[Ksink[m[K, *decoder, *converter;
+      |                                     [01;35m[K^~~~[m[K
+[01m[K/home/matheus/repos/queue_system_ros2/src/queue_system/src/main.cpp:9:13:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kerror[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+    9 |     GError *[01;35m[Kerror[m[K = NULL;
+      |             [01;35m[K^~~~~[m[K
+gmake[2]: *** [CMakeFiles/queue_system_exe.dir/build.make:76: CMakeFiles/queue_system_exe.dir/src/main.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/queue_system_exe.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2
