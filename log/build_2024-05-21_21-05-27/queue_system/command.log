@@ -1,4 +1,0 @@
-Invoking command in '/home/matheus/repos/queue_system_ros2/build/queue_system': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/matheus/repos/queue_system_ros2/src/queue_system -DCMAKE_INSTALL_PREFIX=/home/matheus/repos/queue_system_ros2/install/queue_system
-Invoked command in '/home/matheus/repos/queue_system_ros2/build/queue_system' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/matheus/repos/queue_system_ros2/src/queue_system -DCMAKE_INSTALL_PREFIX=/home/matheus/repos/queue_system_ros2/install/queue_system
-Invoking command in '/home/matheus/repos/queue_system_ros2/build/queue_system': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/matheus/repos/queue_system_ros2/build/queue_system -- -j12 -l12
-Invoked command in '/home/matheus/repos/queue_system_ros2/build/queue_system' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/matheus/repos/queue_system_ros2/build/queue_system -- -j12 -l12
